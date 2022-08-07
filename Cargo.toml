@@ -33,7 +33,7 @@ url = { version = "2", features = ["serde"] }
 uuid = { version = "0.8", features = ["serde", "v4"] }
 ws = { version = "0.9", features = ["ssl"] }
 zeroize = "1"
-ethers-core = "0.6"
+ethers-core = "0.17"
 
 # qr
 atty = { version = "0.2", optional = true }
